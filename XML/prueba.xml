@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE clima [
+<!--	     Nombre    Modelo contenido    -->
+<!ELEMENT clima     (ciudad+)                >
+<!ELEMENT ciudad    (nombre, reporte)        >
+<!ELEMENT nombre    (#PCDATA)                >
+<!ELEMENT reporte   (alta, baja, precip?)    >
+<!ELEMENT alta      (#PCDATA)                >
+<!ELEMENT baja      (#PCDATA)                >
+<!ELEMENT precip    EMPTY                    >
+<!ATTLIST precip    total_dia      CDATA     #REQUIRED
+     tipo      (lluvia | nieve)    "lluvia"
+     fuerza    (ligera | fuerte)   #IMPLIED  >
+]>
+<clima>
+   <ciudad>
+      <nombre>Mexico DF</nombre>
+      <reporte>
+         <alta>27</alta>
+         <baja>18</baja>
+         <precip total_dia="0" tipo="lluvia" fuerza="ligera"/>
+      </reporte>
+   </ciudad>
+   <ciudad>
+      <nombre>Monterrey</nombre>
+      <reporte>
+         <alta>42</alta>
+         <baja>36</baja>
+         <precip total_dia="0" tipo="lluvia" fuerza="fuerte"/>
+      </reporte>
+   </ciudad>
+</clima>
