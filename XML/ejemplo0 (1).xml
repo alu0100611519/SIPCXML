@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tablanotas.xsl" ?>
+<BOXEO>
+	<p>
+		<Nombre>Emmanuel</Nombre>
+		<apellido>Dapidran Pacquiao</apellido>
+		<mote> Pac-man</mote>
+		<edad>35</edad>
+		<talla>1,69m</talla>
+		<pais>Filipinas</pais>
+	<palmares>
+		<t>62</t>
+		<v>55</v>
+		<d>38</d>
+		<e>2</e>
+        </palmares>
+	</p>
+
+	<p>
+		<Nombre>Flyd joy</Nombre>
+		<apellido>Sinclair</apellido>
+		<mote> none </mote>
+		<edad>36</edad>
+		<talla>1,73m</talla>
+		<pais>Estados Unidos</pais>
+	<palmares>
+		<t>45</t>
+		<v>45</v>
+		<d>0</d>
+		<e>0</e>
+        </palmares>
+	</p>
+
+
+
+	<p>
+		<Nombre>Santos Saúl</Nombre>
+		<apellido>Álvarez Barragán</apellido>
+		<mote> Canelo </mote>
+		<edad>23</edad>
+		<talla>1,75m</talla>
+		<pais>Mexico</pais>
+	<palmares>
+		<t>44</t>
+		<v>42</v>
+		<d>1</d>
+		<e>1</e>
+        </palmares>
+	</p>
+
+
+
+
+	<p>
+		<Nombre>Sergio Gabriel</Nombre>
+		<apellido>Martínez</apellido>
+		<mote> Maravilla </mote>
+		<edad>38</edad>
+		<talla>1,78m</talla>
+		<pais>Argentina</pais>
+	<palmares>
+		<t>55</t>
+		<v>51</v>
+		<d>2</d>
+		<e>2</e>
+		
+        </palmares>
+
+
+
+	<p>
+		<Nombre>Miguel Angel</Nombre>
+		<apellido>Cotto</apellido>
+		<mote> Junito </mote>
+		<edad>33</edad>
+		<talla>1,70m</talla>
+		<pais>Puerto Rico</pais>
+	<palmares>
+		<t>42</t>
+		<v>38</v>
+		<d>4</d>
+		<e>0</e>
+		
+        </palmares>
+
+
+
+
+	</p>
+
+</BOXEO>
