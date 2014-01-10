@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<?xml-stylesheet href="conce.xsl" type="text/xsl"?>
+<concesionario>
+	<coches tipo=" deportivo "> 
+		<tipo>Deportivo</tipo>
+		<coche>
+			<marca>Lamborghini</marca>
+			<modelo>Gallardo</modelo>
+			<anho>2012</anho>
+			<cilindrada> 5200cc</cilindrada>
+			<cv>550</cv>
+			<precio>200.000 </precio>
+		</coche>
+		<coche>
+			<marca>Porsche</marca>
+			<modelo>Boxster</modelo>
+			<anho>2012</anho>
+			<cilindrada>2700cc</cilindrada>
+			<cv>265</cv>
+			<precio>158.000 </precio>
+		</coche>
+	</coches>
+	<coches tipo=" turismo ">
+		<tipo>Turismo</tipo>
+		<coche>
+			<marca>Seat</marca>
+			<modelo>Ibiza</modelo>
+			<anho>2000</anho>
+			<cilindrada>1390cc</cilindrada>
+			<cv>60</cv>
+			<precio>15.000 </precio>
+		</coche>
+		<coche>				
+			<marca>Citroen</marca>
+			<modelo>Saxo</modelo>
+			<anho>2000</anho>
+			<cilindrada>1600cc</cilindrada>
+			<cv>120</cv>
+			<precio>6.000 </precio>
+		</coche>
+		<coche>				
+			<marca>Ford</marca>
+			<modelo>Fiesta</modelo>
+			<anho>2008</anho>
+			<cilindrada>2000cc</cilindrada>
+			<cv>150</cv>
+			<precio>3.000 </precio>
+		</coche>
+	</coches>
+	<coches tipo=" todoterreno ">
+		<tipo>Todoterreno</tipo>
+		<coche>
+			<marca>BMW</marca>
+			<modelo>X5</modelo>
+			<anho>2013</anho>
+			<cilindrada>3000cc</cilindrada>
+			<cv>245</cv>
+			<precio>48.000 </precio>
+		</coche>
+		<coche>
+			<marca>Jeep</marca>
+			<modelo>Wrangler</modelo>
+			<anho>2012</anho>
+			<cilindrada>2800cc</cilindrada>
+			<cv>200</cv>
+			<precio>30.000 </precio>
+		</coche>	
+	</coches>
+		<coches tipo=" furgoneta "> 
+		<tipo>Furgoneta</tipo>
+		<coche>
+			<marca>Volkswagen</marca>
+			<modelo>Caravelle</modelo>
+			<anho>2012</anho>
+			<cilindrada> 2000cc</cilindrada>
+			<cv>102</cv>
+			<precio>38.000 </precio>
+		</coche>
+		<coche>
+			<marca>Iveco</marca>
+			<modelo>Daily</modelo>
+			<anho>2011</anho>
+			<cilindrada>2300cc</cilindrada>
+			<cv>96</cv>
+			<precio>16.400 </precio>
+		</coche>
+	</coches>
+</concesionario>
