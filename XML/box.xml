@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<?xml-stylesheet href="box.xsl" type="text/xsl"?>
+<torneo>
+	<boxer tipo=" Welter ">
+		<tipo>Welter</tipo> 
+		<boxe>
+			<nombre>Enmanuel Dapidran</nombre> 
+			<apellido>Pacquiao</apellido>
+			<mote> Pac-man</mote> 
+			<pais>Filipinas</pais> 
+			<edad>35</edad> 
+			<talla>1,69m</talla>  
+			<t>62</t>
+			<v>55</v> 
+			<d>5</d>
+			<e>2</e>
+			<ko>38</ko>
+		</boxe>
+		<boxe>
+			<nombre>Floyd Joy</nombre> 
+			<apellido>Sinclair</apellido>
+			<mote>none</mote> 
+			<pais>Estados Unidos</pais> 
+			<edad>36</edad> 
+			<talla>1,73m</talla>  
+			<t>45</t>
+			<v>45</v> 
+			<d>0</d>
+			<e>0</e>
+			<ko>26</ko>
+		</boxe>
+
+		<boxe>
+			<nombre>Santos Saúl</nombre> 
+			<apellido>Álvarez Barragán</apellido>
+			<mote>Canelo</mote> 
+			<pais>México</pais> 
+			<edad>23</edad> 
+			<talla>1,75m</talla>  
+			<t>44</t>
+			<v>42</v> 
+			<d>1</d>
+			<e>1</e>
+			<ko>30</ko>
+		</boxe>
+	</boxer>
+
+	<boxer tipo=" Mediano ">
+		<tipo>Mediano</tipo> 
+		<boxe>
+			<nombre>Sergio Gabriel</nombre> 
+			<apellido>Martínez</apellido>
+			<mote> Maravilla</mote> 
+			<pais>Argentina</pais> 
+			<edad>38</edad> 
+			<talla>1,78m</talla>  
+			<t>55</t>
+			<v>51</v> 
+			<d>2</d>
+			<e>2</e>
+			<ko>28</ko>
+		</boxe>
+		<boxe>
+			<nombre>Miguel Ángel</nombre> 
+			<apellido>Cotto</apellido>
+			<mote>none</mote> 
+			<pais>Puerto Rico</pais> 
+			<edad>33</edad> 
+			<talla>1,70m</talla>  
+			<t>42</t>
+			<v>38</v> 
+			<d>4</d>
+			<e>0</e>
+			<ko>31</ko>
+		</boxe>
+
+		<boxe>
+			<nombre>Kelly</nombre> 
+			<apellido>Pavlik</apellido>
+			<mote>el fantasma</mote> 
+			<pais>Estados Unidos</pais> 
+			<edad>32</edad> 
+			<talla>1,89m</talla>  
+			<t>43</t>
+			<v>40</v> 
+			<d>3</d>
+			<e>0</e>
+			<ko>40</ko>
+		</boxe>
+	</boxer>
+
+	<boxer tipo=" Pesado ">
+		<tipo>Pesado</tipo> 
+		<boxe>
+			<nombre>Vitali</nombre> 
+			<apellido>Klitschko</apellido>
+			<mote> Dr. Puño de Hierro</mote> 
+			<pais>Ucrania</pais> 
+			<edad>42</edad> 
+			<talla>2,01m</talla>  
+			<t>47</t>
+			<v>45</v> 
+			<d>2</d>
+			<e>0</e>
+			<ko>41</ko>
+		</boxe>
+		<boxe>
+			<nombre>Wladimir</nombre> 
+			<apellido>Klitschko</apellido>
+			<mote>Dr. Martillo de Acero</mote> 
+			<pais>Ucrania</pais> 
+			<edad>37</edad> 
+			<talla>1,98m</talla>  
+			<t>64</t>
+			<v>61</v> 
+			<d>3</d>
+			<e>0</e>
+			<ko>51</ko>
+		</boxe>
+
+		<boxe>
+			<nombre>Michael Gerard</nombre> 
+			<apellido>Tyson</apellido>
+			<mote>Iron mike</mote> 
+			<pais>Estados Unidos</pais> 
+			<edad>47</edad> 
+			<talla>1,78m</talla>  
+			<t>58</t>
+			<v>50</v> 
+			<d>6</d>
+			<e>0</e>
+			<ko>44</ko>
+		</boxe>
+	</boxer>
+
+</torneo>
